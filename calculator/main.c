@@ -7,6 +7,7 @@
 #define MAXVAL	100
 #define BUFSIZE	100
 
+/*Declaración de funciones prototipo*/
 int getop(char []);
 void push(double);
 double pop(void);
